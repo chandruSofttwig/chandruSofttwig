@@ -94,7 +94,7 @@ chandru@github:~$ git log --graph --since="1 year ago"
 
 <div align="center">
 
-<img width="100%" alt="contributions" src="https://ghchart.rshah.org/39d353/chandruSofttwig" />
+<img width="100%" alt="contributions" src="https://raw.githubusercontent.com/chandruSofttwig/chandruSofttwig/output/contributions.svg" />
 
 </div>
 
